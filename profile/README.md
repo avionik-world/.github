@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/avionik-world/.github/main/avionik.png)
+![Header](https://raw.githubusercontent.com/avionik-world/.github/main/avionik-title.png)
 
 
 ## About us 🙋‍♀️
